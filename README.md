@@ -19,3 +19,8 @@ A complete banking system written in C with ncurses GUI.
 
 ```bash
 gcc -Wall -Wextra -o banking main.c -lncurses
+```
+## 🏃 How to Run
+```bash
+./banking
+```

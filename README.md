@@ -24,3 +24,9 @@ gcc -Wall -Wextra -o banking main.c -lncurses
 ```bash
 ./banking
 ```
+## 📚 Learning Goals
+  - Complex data structures
+  - User authentication
+  - Financial transactions
+  - File persistence
+  - Advanced ncurses
